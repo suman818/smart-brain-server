@@ -1,2 +1,2 @@
-# smart-brain-server
+# smart-brain-api
 smart brain server
